@@ -1,6 +1,3 @@
-# Portfolio
-
-
 # Data Scientist
 
 Technical Skills: Python, SQL, AWS, Azure, MATLAB, Julia, Power Bi, Tableau, Apache Spark
