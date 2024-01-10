@@ -2,46 +2,12 @@
 
 # Skills
 
-## Programming
-- **Python**
-
-## Data Engineering
-- **AWS S3**
-- **Data Warehouse**
-- **ETL (Extract, Transform, Load)**
-- **Data Lake**
-- **Apache Spark**
-
-## Database Management
-- **SQL Server**
-- **T-SQL**
-- **NoSQL**
-- **Julia** (for data processing)
-
-## Data Visualization
-- **Power Bi**
-- **VBA (Visual Basic for Applications)**
-- **DAX (Data Analysis Expressions)**
-- **Matplotlib**
-- **Seaborn**
-- **Plotly**
-
-## DevOps
-- **Git**
-- **GitHub**
-
-## Machine Learning & Data Science
-- **Data Science Fundamentals**
-- **Machine Learning Techniques**
-- **Statistics**
-- **Linear Algebra**
-- **AWS SageMaker**
-- **Statsmodels**
-- **Pandas**
-- **scikit-learn**
-- **Tensorflow**
-- **Keras**
-- **PyTorch**
+- Programming: Python
+- Data Engineering: AWS S3, Data Warehouse,ETL (Extract, Transform, Load),Data Lake, Apache Spark
+- Database Management: SQL Server, T-SQL, NoSQL, Julia
+- Data Visualization: Tableau, Power Bi, VBA (Visual Basic for Applications), DAX (Data Analysis Expressions), Matplotlib, Seaborn, Plotly
+- DevOps: Git, GitHub
+- Machine Learning & Data Science: Data Science Fundamentals, Machine Learning Techniques, Statistics, Linear Algebra, AWS SageMaker, Statsmodels, Pandas, scikit-learn, Tensorflow, Keras, PyTorch
 
 
 ### Education
