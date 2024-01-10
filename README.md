@@ -1,6 +1,6 @@
 # Data Scientist
 
-# Skills
+### Skills
 
 - Programming: Python
 - Data Engineering: AWS S3, Data Warehouse,ETL (Extract, Transform, Load),Data Lake, Apache Spark
@@ -13,7 +13,7 @@
 ### Education
 M.S., Physics | University of Calgary (April 2024)
 
-# Work Experience
+### Work Experience
 
 ## Data Analyst
 **May 2023 – Aug 2023**  
@@ -44,7 +44,7 @@ M.S., Physics | University of Calgary (April 2024)
 - Created data visualizations and presentations using Python and Power Bi.
 - Developed machine learning models to predict sample origins from isotope concentration data.
 
-# Projects
+### Projects
 
 - **Ethereum Wallet Labeling**: Applied Julia for labeling and analyzing Ethereum wallet data.
 - **Client Portfolio Analysis in the Energy Sector**: Used ML with Spark SQL for in-depth financial health assessment and investment opportunity analysis in energy portfolios.
