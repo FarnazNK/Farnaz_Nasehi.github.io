@@ -1,6 +1,12 @@
 # Data Scientist
 
-Technical Skills: Python, SQL, AWS, Azure, MATLAB, Julia, Power Bi, Tableau, Apache Spark
+* Programming : Python
+* Data Engineering : AWS S3, Data Warehouse, ETL, Data Lake, Apache Spark
+* Database : SQL Server ,T-SQL, NoSQL, Julia
+* Data Visualization: Power Bi, VBA, DAX, Matplotlib, Seaborn, Plotly
+* DevOps : Git, GitHub
+* Machine Learning : Data Science, Machine Learning, Statistics, Linear Algebra, AWS SageMaker, Statsmodels,
+Pandas, , scikit-learn,Tensorflow, Keras, PyTorch
 
 ### Education
 M.S., Physics | University of Calgary (April 2024)
@@ -24,6 +30,12 @@ Physics Department, University of Tabriz Tabriz, Iran
 * Developed Power Bi dashboards with Power Query for data trend analysis
 * Integrated Spark SQL and Power Bi saving 25% analysis time
 * Led SQL and Power Bi workshops for team skill enhancement
+
+Data Research Analyst May 2012 – Aug 2012
+Economics Department, University of Tabriz Tabriz, Iran
+* Used machine learning and SQL precise data cleaning and transformation
+* Employed machine learning to uncover key patterns in consumer behavior
+* Utilized Power Bi for data visualization, creating comprehensive and actionable reports.
 
 Research Assistant Sep 2021 – April 2024
 
